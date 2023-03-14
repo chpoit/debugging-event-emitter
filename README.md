@@ -1,7 +1,8 @@
-# EventEmitterBug
+# Event Emitter/Listener Bug
 
 This a a minimal reproduction of a bug in Google Chrome stable  111.0.5563.65 (Official Build) (64-bit) (cohort: Stable) on Windows 10 Version 22H2 (Build 19045.2673)
 
+It appears to be tied to event listeners
 
 # Steps:
 
